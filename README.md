@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h3 align="left">Hi 👋! <br>My name is Nadhif Al Rozin and I'm a Student, from Institut Teknologi Bandung</h3>
 
 ###
 
@@ -9,9 +9,7 @@
 
 ###
 
-<br clear="both">
-
-<img align="left" height="160" src="https://i.imgflip.com/5xc6gn.gif"  />
+<img align="right" height="160" src="https://i.imgflip.com/5xc6gn.gif"  />
 
 ###
 
